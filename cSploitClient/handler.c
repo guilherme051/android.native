@@ -1,3 +1,4 @@
+#include <stdlib.h>
 /* cSploit - a simple penetration testing suite
  * Copyright (C) 2014  Massimo Dragano aka tux_mind <tux_mind@csploit.org>
  * 
